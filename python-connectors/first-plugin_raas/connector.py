@@ -50,7 +50,7 @@ class MyConnector(Connector):
         Supported types are: string, int, bigint, float, double, date, boolean
         """
 
-       return {
+        return {
             "columns" : [
                 { "name" : "random", "type" : "int" }
             ]
