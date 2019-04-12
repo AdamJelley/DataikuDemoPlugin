@@ -19,7 +19,7 @@
             "arity": "UNARY",
             "required": true,
             "acceptsDataset": true
-        }
+        },
     ],
 
     "outputRoles" : [
