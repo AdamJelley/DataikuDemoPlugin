@@ -14,6 +14,7 @@
 import dataiku
 # Import the helpers for custom recipes
 from dataiku.customrecipe import *
+from compute_corr import *
 
 # Inputs and outputs are defined by roles. In the recipe's I/O tab, the user can associate one
 # or more dataset to each input and output role.
